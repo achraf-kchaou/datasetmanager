@@ -1,10 +1,11 @@
-# Spring Boot Many To Many example with Spring JPA, Hibernate
-Implement Spring JPA Many-To-Many mapping with Hibernate in a Spring Boot CRUD example using @ManyToMany annotation
+# Spring Boot- Système multi-locataire de labellisation de textes -Spring JPA, Hibernate
+Ce projet propose d'automatiser ce processus en rendant automatique les différentes
+étapes susmentionnées. Techniquement, on propose l'utilisation des web services pour
+manipuler le ou les datasets, des appels RPC pour lancer la phase d'apprentissage, et la
+création d'un web service enveloppe pouvant héberger plusieurs modèles en
+production.
  
-- configure Spring Data, JPA, Hibernate to work with Database
-- define Data Models and Repository interfaces for JPA Many-To-Many relationship
-- use Spring JPA to interact with Database for Many-To-Many association
-- create Spring Rest Controller to process HTTP requests
+
 
 
 ## Run Spring Boot application
